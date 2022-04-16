@@ -58,7 +58,7 @@ export const Home = () => {
 		firstLink: PropTypes.string,
 		secondLink: PropTypes.string,
 		thirdLink: PropTypes.string,
-		fourthLink: PropTypes.string,
+		fourthLink: PropTypes.string
 		// ReactDOM.render(
 		// 	<Navbar 
 		// 	navTitle = 'Start Bootstrap'
